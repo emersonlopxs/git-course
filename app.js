@@ -30,3 +30,11 @@ const revert = {
 }
 
 const name = 'Emerson';
+
+
+class ClassName {
+  constructor() {
+    this.name: 'Emerson'
+    this.age: 23
+  }
+}
