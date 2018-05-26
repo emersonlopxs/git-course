@@ -27,5 +27,4 @@ const revert = {
   title: 'this should be reverted'
 }
 
-// new revert
 const name = 'Emerson';
