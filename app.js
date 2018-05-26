@@ -15,3 +15,6 @@ for (var i = 0; i < array.length; i++) {
 }
 
 // this line shouldn't exist
+function(x,y) {
+  return x + y;
+}
