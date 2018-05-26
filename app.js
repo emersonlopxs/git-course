@@ -22,3 +22,7 @@ function add(x,y) {
 function sub(x,y) {
   return x + y;
 }
+
+const revert = {
+  title: 'this should be reverted'
+}
