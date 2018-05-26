@@ -13,3 +13,5 @@ while (true) {
 for (var i = 0; i < array.length; i++) {
   array[i]
 }
+
+// this line shouldn't exist
