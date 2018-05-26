@@ -2,6 +2,8 @@ console.log('hello world!');
 
 console.log('this is the new world!');
 
+const lastName = 'Lopes';
+
 // this should be a new branch!
 
 if (true) {
