@@ -13,7 +13,6 @@ while (true) {
 for (var i = 0; i < array.length; i++) {
   array[i]
 }
-<<<<<<< HEAD
 
 // this line shouldn't exist
 function add(x,y) {
@@ -27,5 +26,6 @@ function sub(x,y) {
 const revert = {
   title: 'this should be reverted'
 }
-=======
->>>>>>> parent of 1136ca4...  add line for deletion
+
+// new revert
+const name = 'Emerson';
